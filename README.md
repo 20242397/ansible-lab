@@ -46,4 +46,4 @@ ansible-playbook -i inventory.ini playbook.yml
 
 ## Captura de la ejecución exitosa
 
-![Ejecución del playbook](screenshot.png)
+![Ejecución del playbook](Screenshot 2026-07-14 204313.png)
